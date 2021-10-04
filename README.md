@@ -29,9 +29,9 @@ Driven Kilometers
 The features (columns) contained messy entries and were tidied using some custom functions. The following steps were taken.
 
 - Removed the duplicate rows in the data because it will affect the analysis.
-Deleted thhe rows with missing values because they ae not up to 1% of the data.
-Extracted the manufaturer of each car from the Model column
-Corrected some of the values in the manufacturers column by merging similar value and correcting those wrongly extracted.
-Removed the pounds symbol and the comma in the values of the price column
-Removed the commas, space and miles input in all the values of the mileage columns.
-Corrected some of the values in the engine and transmission columns by merging similar value and correcting those wrongly extracted.
+- Deleted thhe rows with missing values because they ae not up to 1% of the data.
+- Extracted the manufaturer of each car from the Model column
+- Corrected some of the values in the manufacturers column by merging similar value and correcting those wrongly extracted.
+- Removed the pounds symbol and the comma in the values of the price column
+- Removed the commas, space and miles input in all the values of the mileage columns.
+- Corrected some of the values in the engine and transmission columns by merging similar value and correcting those wrongly extracted.
